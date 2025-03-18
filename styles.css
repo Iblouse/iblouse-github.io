@@ -155,7 +155,7 @@ section {
     }
 }
 
-/* Adjust the first section (about/hero) to avoid double padding */
+/* Adjust the first section to avoid double padding */
 section#about {
     padding-top: 10px;
 }
@@ -359,7 +359,7 @@ h3 {
 	}
 }
 
-/* Redesigned Skills Section Styles */
+/* Skills Section Styles */
 .skills {
     margin-top: 40px;
     margin-bottom: 50px;
@@ -503,8 +503,7 @@ h3 {
     }
 }
 
-/* Updated styles for the projects section */
-/* Enhanced CSS for Projects section to ensure images display properly */
+/* Projects section  */
 .ib {
     .ib-grid {
         display: grid;
@@ -685,6 +684,7 @@ h3 {
     }
 }
 
+/* Education section */
 .education {
     margin-top: 50px;
     margin-bottom: 60px;
@@ -789,6 +789,7 @@ h3 {
     }
 }
 
+/* Contact section */
 .contact {
     margin-top: 30px; /* Reduced from 50px */
     margin-bottom: 0;
